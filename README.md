@@ -34,7 +34,7 @@ From the mentorship program it was retrieve a total of 1,549 employees who are e
 
 ![image](https://user-images.githubusercontent.com/95872614/154786789-8336a2fe-21b7-4ec8-af6b-a6413e34d353.png)
 
-# 3.3 Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## 3.3 Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 ## 3.3.1 Gender equality by title
 

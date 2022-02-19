@@ -20,7 +20,8 @@ Where 569 senior staff are eligible as a mentor, followed by senior engineer wit
 
 4.	From the 90,398 this represents approximately the 30% of the current company’s workforce. This is a considerable human resources problem for Pewlett-Hackard
 
-# 3. Summary. Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+# 3. Summary 
+## Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 3.1 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
